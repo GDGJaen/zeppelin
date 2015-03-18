@@ -47,12 +47,12 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Eventos"}
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/logistics/", text: "Logistics"}
+# - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Conviertete en speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Conviertete en speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,8 +62,8 @@ heroTitle: "GDG Jaén <typeout> "
 typeoutTextValues: '"", "Android", "Web", "Glass", "GMAIL"'
 typeoutFallback: "Jaén"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Conviertete en speaker"}
+ - {permalink: "/#tickets", text: "Compra tus entradas"}
 
 # About Block
 aboutTitle: "Sobre GDG Jaén"
