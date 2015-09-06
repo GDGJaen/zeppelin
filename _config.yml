@@ -10,7 +10,6 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-<<<<<<< HEAD
 title: "GDG DevFest Jaén 2015"
 email: "gdgjaen@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
