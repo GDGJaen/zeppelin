@@ -1,67 +1,34 @@
 ---
 layout: post
-title:  "Call for Papers"
-date:   2014-07-21 09:00:00
+title:  "Call For Papers DevFest Jaén 2015"
+date:   2015-10-2 09:00:00
 isStaticPost: false
 ---
-GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+El GDG DevFest Jaén 2015 se celebrará el día 7 de Noviembre en la ciudad de Jaén. Si quieres formar parte de este gran evento como ponente, estás en el sitio indicado.
 
-#### Presenters – who should speak at the DevFest Conference?
+#### Ponentes: ¿Quién debería hablar en las conferencias del DevFest?
 
-* developers (freelance and hired)
-* companies developing software (apps, tools, frameworks etc.)
-* research institutions with Google relevant activities
-* companies, organisations and individuals using Google technologies
+* Desarrolladores o diseñadores (freelance o contratados)
+* Empresas de desarrollo de software (apps, herramientas, frameworks, etc...)
+* Instituciones de investigación con actividades relevantes de Google
+* Compañías, organizaciones y personas individuales que usen tecnologías de Google
 
-If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.<br/>
+Si eres parte de alguno de estos grupos, estás cordialmente invitado a enviarnos tu propuesta de charla/s.<br/>
 
-#### Themes and topics – what do we expect?
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
+#### Temas - ¿Qué esperamos?
+Estamos abiertos a todos los temas que puedan ser de interes para la comunidad. como ideas os proponemos temas genéricos:
 
-##### Android
+* Android
+* Web
+* Cloud
+* Arquitecturas de programación
+* UI / UX
+* Startup
 
-__Google I/O 2014__
+¡Lo que sea! De verdad, cualquier cosa: sorprendednos!
 
-* Material Design
-* Migration to ART
-* New Android Camera API
-* New Job Scheduler
-* Storage Access Framework
-* Elevation & Clipping
-
-__General__
-
-* Android Continuous Integration
-* Loaders, Cursor Adapters
-* Android Animations
-* Patterns in Android development
-
-##### Web
-
-* AngularJS (1x and 2.0)
-* Dart (AngularDart, server-side)
-* Polymer and WebComponents
-* Material Design in Web
-* ChromeOS (apps development)
-* Web Performance (tools, techniques, approaches)
+Si tienes alguna presentación chula o idea relacionada con las tecnologías de Google, eres libre de enviarnos tu charla también.
 
 
-##### Cloud
-
-* Google Cloud Platform
-  * Compute Engine
-  * App Engine
-  * Storages (SQL, NoSQL, BigData)
-  * APIs
-* Go (as a language for a Cloud Ready Apps)
-
-
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
-__Deadline__ is September 1, 2014
-
-__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
-
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
-
-#### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+#### Envía tu propuesta [aquí](https://docs.google.com/forms/d/1zdYxPXkwXmFEnJeFX5jxrBOYQGCV75525c5Em35TCoM/viewform?c=0&w=1).
+__Fecha límite__ 15 de Octubre, 2015

@@ -1,67 +1,74 @@
 - 
-  id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  id: 6
+  name: "Jorge"
+  surname: "Barroso"
+  company: "Karumi"
+  title: "Android Expert"
+  bio: "Android developer muy interesado por las nuevas tecnologías, clean code y testing. Actualmente formo parte del equipo de ingeniería de Karumi como Android Expert y anteriormente formé parte del equipo de Tuenti como Senior Mobile Software Engineer. Intento mejorar cada día como ingeniero trabajando con nuevos frameworks, librerías, colaborando con la comunidad open source o aprendiendo nuevos lenguajes. El objetivo, escribir la mejor aplicación posible."
+  thumbnailUrl: jorge-barroso.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "twitter", link: "https://twitter.com/flipper83"}
+    - {name: "github", link: "https://github.com/flipper83"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
-- 
-  id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Jorge"
+  surname: "Castillo"
+  company: "Job&Talent"
+  title: "Android Engineer"
+  bio: "Jorge Castillo es un desarrollador murciano con amplia experiencia en el manejo de la API gráfica de Android. Posee numerosas librerías Open Source para la capa de UI, así como algunas otras más propias de I+D (Procesadores de anotaciones). Actualmente forma parte del equipo de desarrollo de Job and Talent."
+  thumbnailUrl: jorge-castillo.png
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "twitter", link: "https://twitter.com/JorgeCastilloPr"}
+    - {name: "github", link: "https://github.com/jorgecastilloprz"}
+    - {name: "site", link: "http://jorgecastillo.xyz/"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  id: 4
+  name: "Javi"
+  surname: "Pacheco"
+  company: "47 Degrees"
+  title: "Scala Developer"
+  bio: "Javi is Senior Software Engineers at 47 Degrees with an experience in the Android development."
+  thumbnailUrl: javi-pacheco.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/javielinux"}
+    - {name: "github", link: "https://github.com/javipacheco"}
+- 
+  id: 3
+  name: "Francisco"
+  surname: "Franco"
+  company: "Telefonica I+D"
+  title: ""
+  bio: "Apasionado de las nuevas tecnologías y gadgets. Descubrió Android en 2009 y desde entonces se ha centrado en como desarrollar aplicaciones más solidas utilizando TDD, buenas prácticas y CLEAN Architecture en esa plataforma.  Actualmente trabajo en Telefonica I+D como Senior Android Developer."
+  thumbnailUrl: fernando-franco.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/thanerian"}
+- 
+  id: 2
+  name: "Victor"
+  surname: "Muñoz"
+  company: "Movilok SL"
+  title: "Senior Android Developer"
+  bio: "Ingeniero de profesión, entusiasta de vocación."
+  thumbnailUrl: victor-muñoz.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ivictorvmp"}
+    - {name: "github", link: "https://github.com/victorvmp"}
+
+- 
+  id: 1
+  name: "Fede"
+  surname: "Fernández"
+  company: "47 Degrees"
+  title: "Scala Developer"
+  bio: "Fede is Senior Software Engineers at 47 Degrees with an experience in the Android development."
+  thumbnailUrl: fede-fernandez.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/fede_fdz"}
+    - {name: "github", link: "https://github.com/fedefernandez"}
