@@ -60,14 +60,13 @@
   id: 5
   name: "Raúl"
   surname: "Moya Reyes"
-  title: "Javascript Engineer & Front-end Developer (en Zeendo)"
+  title: "Javascript Engineer & Front-end"
   thumbnailUrl: raul-moya.jpg
   team: true
   ribbon: 
     - {abbr: "GDG Collaborator", title: "GDG Organizer"}
   social: 
     - {name: "google-plus", link: "https://google.com/+raulmoyareyes"}
-    - {name: "twitter", link: "https://twitter.com/raulmoyareyes"}
     - {name: "github", link: "https://github.com/raulmoyareyes"}
     - {name: "linkedin", link: "https://linkedin.com/in/raulmoyareyes"}
     - {name: "site", link: "http://raulmoya.es"}
