@@ -36,10 +36,11 @@
   ribbon: 
     - {abbr: "GDG Organizer", title: "GDG Organizer"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+JoseLopezCambil"}
-    - {name: "twitter", link: "https://twitter.com/jmlb0003"}
+    - {name: "site", link: "joselopez.hol.es"}
     - {name: "github", link: "https://github.com/Jamargle"}
     - {name: "linkedin", link: "http://es.linkedin.com/in/josemiguellopezbayona"}
+    - {name: "twitter", link: "https://twitter.com/jmlb0003"}
+    - {name: "google-plus", link: "https://plus.google.com/+JoseLopezCambil"}
 
 - 
   id: 3
