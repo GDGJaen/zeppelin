@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "GDG DevFest Jaén 2015"
 email: "gdgjaen@gmail.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "GDG DevFest es un conjunto de eventos por todo el mundo"
 baseurl: ""
 url: "http://gdgjaen.xyz"
 permalink: "/blog/:title"
