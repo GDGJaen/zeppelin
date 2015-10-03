@@ -40,8 +40,8 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/team/", text: "Nosotros"}
-bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Consigue una entrada"}
+# bottomNavigationLinks:
+# - {link: "https://bit.ly/dfua-c4p", text: "Consigue una entrada"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -49,8 +49,8 @@ heroTitle: "GDG Jaén DevFest <typeout> 2015"
 eventDate: "7 de noviembre, 2015"
 typeoutTextValues: '"", "Android", "Functional Programming", "Entrepreneurship", "Community"'
 typeoutFallback: "Jaén"
-heroButtons:
- - {permalink: "/#tickets", text: "Consigue una entrada"}
+# heroButtons:
+# - {permalink: "/#tickets", text: "Consigue una entrada"}
 
 
 # About Block
