@@ -36,9 +36,9 @@
   ribbon: 
     - {abbr: "GDG Organizer", title: "GDG Organizer"}
   social: 
-    - {name: "site", link: "joselopez.hol.es"}
-    - {name: "github", link: "https://github.com/Jamargle"}
+    - {name: "site", link: "http://joselopez.hol.es"}
     - {name: "linkedin", link: "http://es.linkedin.com/in/josemiguellopezbayona"}
+    - {name: "github", link: "https://github.com/Jamargle"}
     - {name: "twitter", link: "https://twitter.com/jmlb0003"}
     - {name: "google-plus", link: "https://plus.google.com/+JoseLopezCambil"}
 
