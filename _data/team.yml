@@ -70,4 +70,18 @@
     - {name: "github", link: "https://github.com/raulmoyareyes"}
     - {name: "linkedin", link: "https://linkedin.com/in/raulmoyareyes"}
     - {name: "site", link: "http://raulmoya.es"}
+- 
+  id: 6
+  name: "Marcial"
+  surname: "Sánchez"
+  title: "Computer Engineer & Security Enthusiast"
+  thumbnailUrl: marcial-sanchez.png
+  team: true
+  ribbon: 
+    - {abbr: "GDG Collaborator", title: "GDG Organizer"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/Marci_1_"}
+    - {name: "google-plus", link: "google.com/+MarcialSánchezSantiago"}
+    - {name: "github", link: "https://github.com/MarcialSanchez"}
+    - {name: "linkedin", link: "https://es.linkedin.com/in/marcials"}
 
