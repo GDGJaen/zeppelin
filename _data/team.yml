@@ -1,60 +1,73 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Manuel"
+  surname: "Pancorbo"
+  title: "Android and Web Developer"
+  thumbnailUrl: manuel-pancorbo.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG Organizer", title: "GDG Jaén Organizer"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/104117065916863354056/posts"}
+    - {name: "twitter", link: "https://twitter.com/ManuelPancorbo"}
+    - {name: "github", link: "https://github.com/manuelpancorbo"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/manuelpancorbo"}
+
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Sergio"
+  surname: "Muriana"
+  title: "Entrepreneur and Android Developer"
+  thumbnailUrl: sergio-muriana.png
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG Organizer", title: "GDG Organizer"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/pureta88"}
+    - {name: "github", link: "https://github.com/smuriana"}
+
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Jose Miguel"
+  surname: "López"
+  title: "Computer Engineer, Google lover and Android Developer project"
+  thumbnailUrl: josemi-lopez.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG Organizer", title: "GDG Organizer"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "site", link: "http://joselopez.hol.es"}
+    - {name: "linkedin", link: "http://es.linkedin.com/in/josemiguellopezbayona"}
+    - {name: "github", link: "https://github.com/Jamargle"}
+    - {name: "twitter", link: "https://twitter.com/jmlb0003"}
+    - {name: "google-plus", link: "https://plus.google.com/+JoseLopezCambil"}
+
 - 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  id: 3
+  name: "Gabri"
+  surname: "Moreno"
+  title: ""
+  thumbnailUrl: gabri-moreno.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG Organizer", title: "GDG Organizer"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "site", link: ""}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  id: 5
+  name: "Raúl"
+  surname: "Moya Reyes"
+  title: "Javascript Engineer & Front-end"
+  thumbnailUrl: raul-moya.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG Collaborator", title: "GDG Organizer"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://google.com/+raulmoyareyes"}
+    - {name: "github", link: "https://github.com/raulmoyareyes"}
+    - {name: "linkedin", link: "https://linkedin.com/in/raulmoyareyes"}
+    - {name: "site", link: "http://raulmoya.es"}
+
