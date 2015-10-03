@@ -68,7 +68,7 @@ statisticBlock:
  - {count: "10", specialCharacter: "+", info: "speakers", detail: "de toda España"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
