@@ -4,9 +4,9 @@ title:  "Call For Papers DevFest Jaén 2015"
 date:   2015-10-2 09:00:00
 isStaticPost: false
 ---
-El GDG DevFest Jaén 2015 se celebrará el día 7 de Noviembre en la ciudad de Jaén. Si quieres formar parte de este gran evento como ponente, estás en el sitio indicado.
+El GDG DevFest Jaén 2015 se celebrará el día 7 de Noviembre en la ciudad de Jaén. Si quieres formar parte de este gran evento como speaker, estás en el sitio indicado.
 
-#### Ponentes: ¿Quién debería hablar en las conferencias del DevFest?
+#### Speakers: ¿Quién debería hablar en las conferencias del DevFest?
 
 * Desarrolladores o diseñadores (freelance o contratados)
 * Empresas de desarrollo de software (apps, herramientas, frameworks, etc...)

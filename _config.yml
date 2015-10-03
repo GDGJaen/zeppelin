@@ -39,8 +39,6 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Programación"}
- - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Nosotros"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Consigue una entrada"}
@@ -59,7 +57,7 @@ heroButtons:
 aboutTitle: "Sobre nuestro primer Devfest"
 aboutBlock:
  - {title: "Devfest", image: "devfest.png", text: "Los Devfests son el mayor evento organizado anualmente por los Google Developers Groups y... ¡Por primera vez llegan a Jaén!" }
- - {title: "Ponencias", image: "ponencias.jpg", text: "Vendrán a darnos charlas ponentes de primerísimo nivel de toda España... ¡Pagados con sacos de cacahuetes de la mejor calidad!" }
+ - {title: "Ponencias", image: "ponencias.jpg", text: "Vendrán a darnos charlas speakers de primerísimo nivel de toda España... ¡Pagados con sacos de cacahuetes de la mejor calidad!" }
  - {title: "Networking", image: "networking.jpg", text: "El Devfest supone una oportunidad única para hacer crecer la comunidad de desarrolladores de Jaén. ¿Te lo vas a perder?" }
 
 # Statistic Block
@@ -67,7 +65,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "100", specialCharacter: "", info: "asistentes", detail: "de toda Andalucía"}
  - {count: "15", specialCharacter: "", info: "horas", detail: "de tecnología y comunidad"}
- - {count: "10", specialCharacter: "+", info: "ponentes", detail: "de toda España"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "de toda España"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -175,7 +173,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:gdgjaen@gmail.com", text: "gdgjaen@gmail.com"}
+   - {link: "mailto:contacto@gdgjaen.xyz", text: "contacto@gdgjaen.xyz"}
  -
   title: "FAQ"
   links:
@@ -191,7 +189,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Nosotros"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "El GDG de Jaén está dirigido por ex-estudiantes y estudiantes de la Universidad de Jaén y nació con el objetivo de unir y generar la comunidad que la provincia llevaba tanto tiempo pidiendo. Si bien en esta sección podrás ver quienes estamos detrás de todo esto, cualquiera con interés e inquietudes puede colaborar... ¡Quizás en el proxímo DevFest aparezcas tú! Al fin y al cabo el GDG no son sólo 4 o 5 personas, lo formamos todos los que asistimos a los eventos y aportamos ganas e ideas. Nuestra última finalidad es proporcionarle a las nuevas generaciones de estudiantes lo que a nosotros nos hubiera gustado tener cuando empezamos."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
