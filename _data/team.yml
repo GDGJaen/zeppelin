@@ -36,10 +36,9 @@
   ribbon: 
     - {abbr: "GDG Organizer", title: "GDG Organizer"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+JoseLopezCambil"}
-    - {name: "twitter", link: "https://twitter.com/jmlb0003"}
+    - {name: "linkedin", link: "http://es.linkedin.com/in/josemiguellopezbayona"}
     - {name: "github", link: "https://github.com/Jamargle"}
-    - {name: "facebook", link: "https://www.facebook.com/josemiguel.lopezbayona"}
+    - {name: "google-plus", link: "https://plus.google.com/+JoseLopezCambil"}
 
 - 
   id: 3
@@ -58,16 +57,16 @@
 - 
   id: 5
   name: "Raúl"
-  surname: "Moya Pérez"
+  surname: "Moya Reyes"
   title: "Javascript Engineer & Front-end Developer (en Zeendo)"
   thumbnailUrl: raul-moya.jpg
   team: true
   ribbon: 
-    - {abbr: "Collaborator", title: ""}
+    - {abbr: "GDG Collaborator", title: "GDG Organizer"}
   social: 
     - {name: "google-plus", link: "https://google.com/+raulmoyareyes"}
     - {name: "twitter", link: "https://twitter.com/raulmoyareyes"}
     - {name: "github", link: "https://github.com/raulmoyareyes"}
     - {name: "linkedin", link: "https://linkedin.com/in/raulmoyareyes"}
-    - {name: "site", link: "raulmoya.es"}
+    - {name: "site", link: "http://raulmoya.es"}
 
