@@ -46,16 +46,17 @@
   id: 3
   name: "Gabri"
   surname: "Moreno"
-  title: ""
+  title: "University Researcher & Computer Engineer"
   thumbnailUrl: gabri-moreno.jpg
   team: true
   ribbon: 
     - {abbr: "GDG Organizer", title: "GDG Organizer"}
   social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "site", link: ""}
+    - {name: "google-plus", link: "http://bit.ly/GabrGo"}
+    - {name: "twitter", link: "http://bit.ly/GabTwtt"}
+    - {name: "github", link: "http://bit.ly/GabGit"}
+    - {name: "linkedin", link: "http://bit.ly/GabLnkIn"}
+    
 - 
   id: 5
   name: "Raúl"
