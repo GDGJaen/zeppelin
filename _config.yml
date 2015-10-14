@@ -132,7 +132,8 @@ ticketsOffers:
   ticketContentList: ["Acreditación como asistente", "Acceso a todas las charlas y actividades", "Networking"]
   validFrom: "16 de Octubre"
   validThrough: "2014-09-30T23:59"
-  featured: true
+  #featured: true
+  disabled: true
 
 # Footer
 socialLinks:
