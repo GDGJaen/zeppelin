@@ -1,31 +1,5 @@
 - 
-  id: 6
-  name: "Jorge"
-  surname: "Barroso"
-  company: "Karumi"
-  title: "Android Expert"
-  bio: "Android developer muy interesado por las nuevas tecnologías, clean code y testing. Actualmente formo parte del equipo de ingeniería de Karumi como Android Expert y anteriormente formé parte del equipo de Tuenti como Senior Mobile Software Engineer. Intento mejorar cada día como ingeniero trabajando con nuevos frameworks, librerías, colaborando con la comunidad open source o aprendiendo nuevos lenguajes. El objetivo, escribir la mejor aplicación posible."
-  thumbnailUrl: jorge-barroso.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/flipper83"}
-    - {name: "github", link: "https://github.com/flipper83"}
-- 
-  id: 5
-  name: "Jorge"
-  surname: "Castillo"
-  company: "Job&Talent"
-  title: "Android Engineer"
-  bio: "Jorge Castillo es un desarrollador murciano con amplia experiencia en el manejo de la API gráfica de Android. Posee numerosas librerías Open Source para la capa de UI, así como algunas otras más propias de I+D (Procesadores de anotaciones). Actualmente forma parte del equipo de desarrollo de Job and Talent."
-  thumbnailUrl: jorge-castillo.png
-  rockstar: true
-  ribbon:
-  social: 
-    - {name: "twitter", link: "https://twitter.com/JorgeCastilloPr"}
-    - {name: "github", link: "https://github.com/jorgecastilloprz"}
-    - {name: "site", link: "http://jorgecastillo.xyz/"}
-- 
-  id: 4
+  id: 8
   name: "Javi"
   surname: "Pacheco"
   company: "47 Degrees"
@@ -37,31 +11,7 @@
     - {name: "twitter", link: "https://twitter.com/javielinux"}
     - {name: "github", link: "https://github.com/javipacheco"}
 - 
-  id: 3
-  name: "Francisco"
-  surname: "Franco"
-  company: "Telefonica I+D"
-  title: ""
-  bio: "Apasionado de las nuevas tecnologías y gadgets. Descubrió Android en 2009 y desde entonces se ha centrado en como desarrollar aplicaciones más solidas utilizando TDD, buenas prácticas y CLEAN Architecture en esa plataforma.  Actualmente trabajo en Telefonica I+D como Senior Android Developer."
-  thumbnailUrl: fernando-franco.png
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/thanerian"}
-- 
-  id: 2
-  name: "Victor"
-  surname: "Muñoz"
-  company: "Movilok SL"
-  title: "Senior Android Developer"
-  bio: "Ingeniero de profesión, entusiasta de vocación."
-  thumbnailUrl: victor-muñoz.png
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "https://twitter.com/ivictorvmp"}
-    - {name: "github", link: "https://github.com/victorvmp"}
-
-- 
-  id: 1
+  id: 7
   name: "Fede"
   surname: "Fernández"
   company: "47 Degrees"
@@ -72,3 +22,75 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/fede_fdz"}
     - {name: "github", link: "https://github.com/fedefernandez"}
+- 
+  id: 6
+  name: "Pedro"
+  surname: "Gómez"
+  company: "Karumi"
+  title: "Senior Android Developer"
+  bio: "Android developer muy interesado por las nuevas tecnologías, clean code y testing. Actualmente formo parte del equipo de ingeniería de Karumi como Android Expert y anteriormente formé parte del equipo de Tuenti como Senior Mobile Software Engineer. Intento mejorar cada día como ingeniero trabajando con nuevos frameworks, librerías, colaborando con la comunidad open source o aprendiendo nuevos lenguajes. El objetivo, escribir la mejor aplicación posible."
+  thumbnailUrl: pedro-gomez.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/pedro_g_s"}
+    - {name: "github", link: "https://github.com/pedrovgs"}
+- 
+  id: 5
+  name: "Jorge"
+  surname: "Barroso"
+  company: "Karumi"
+  title: "Android Expert"
+  bio: "Android developer muy interesado por las nuevas tecnologías, clean code y testing. Actualmente formo parte del equipo de ingeniería de Karumi como Android Expert y anteriormente formé parte del equipo de Tuenti como Senior Mobile Software Engineer. Intento mejorar cada día como ingeniero trabajando con nuevos frameworks, librerías, colaborando con la comunidad open source o aprendiendo nuevos lenguajes. El objetivo, escribir la mejor aplicación posible."
+  thumbnailUrl: jorge-barroso.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/flipper83"}
+    - {name: "github", link: "https://github.com/flipper83"}
+- 
+  id: 4
+  name: "Francisco"
+  surname: "Franco"
+  company: "Telefonica I+D"
+  title: ""
+  bio: "Apasionado de las nuevas tecnologías y gadgets. Descubrió Android en 2009 y desde entonces se ha centrado en como desarrollar aplicaciones más solidas utilizando TDD, buenas prácticas y CLEAN Architecture en esa plataforma.  Actualmente trabajo en Telefonica I+D como Senior Android Developer."
+  thumbnailUrl: fernando-franco.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/thanerian"}
+- 
+  id: 3
+  name: "Jorge"
+  surname: "Castillo"
+  company: "Job&Talent"
+  title: "Android Engineer"
+  bio: "Jorge Castillo es un desarrollador murciano con amplia experiencia en el manejo de la API gráfica de Android. Posee numerosas librerías Open Source para la capa de UI, así como algunas otras más propias de I+D (Procesadores de anotaciones). Actualmente forma parte del equipo de desarrollo de JobandTalent."
+  thumbnailUrl: jorge-castillo.png
+  rockstar: true
+  ribbon:
+  social: 
+    - {name: "twitter", link: "https://twitter.com/JorgeCastilloPr"}
+    - {name: "github", link: "https://github.com/jorgecastilloprz"}
+    - {name: "site", link: "http://jorgecastillo.xyz/"}
+- 
+  id: 2
+  name: "José Manuel"
+  surname: "Pereira García"
+  company: "Job&Talent"
+  title: "Android Tech Lead"
+  bio: "Android Tech Lead at JobandTalent, GDG Madrid Organizer and Founder of AndroCode. Formerly at Redbooth and GDG Barcelona. Beer Lover and Andalú. And Speaker!"
+  thumbnailUrl: jose-pereira.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/JMPergar"}
+    - {name: "github", link: "https://github.com/JMPergar"}
+- 
+  id: 1
+  name: "José María"
+  surname: "Rodríguez Hurtado"
+  company: "Job&Talent"
+  title: "Senior Android Developer"
+  bio: "Apasionado por la tecnología trabaja en Madrid como Android Senior Engineer en jobandtalent. Previamente ha trabajado en idealista participando en el desarrollo de la API REST, las apps móviles y en el labs de la compañía. Compagina su labor de desarrollador con la de editor en diferentes publicaciones en internet, coordina el blog de Genbeta Dev y colabora en Xataka Android."
+  thumbnailUrl: jose-rodriguez.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/durbon"}
