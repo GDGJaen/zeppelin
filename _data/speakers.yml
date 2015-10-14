@@ -4,7 +4,7 @@
   surname: "Pacheco"
   company: "47 Degrees"
   title: "Scala Developer"
-  bio: "Javi is Senior Software Engineers at 47 Degrees with an experience in the Android development."
+  bio: "Javi is Senior Software Engineer at 47 Degrees with experience in Android development."
   thumbnailUrl: javi-pacheco.jpg
   rockstar: true
   social: 
@@ -16,9 +16,9 @@
   surname: "Fernández"
   company: "47 Degrees"
   title: "Scala Developer"
-  bio: "Fede is Senior Software Engineers at 47 Degrees with an experience in the Android development."
+  bio: "Fede is Senior Software Engineer at 47 Degrees with experience in Android development."
   thumbnailUrl: fede-fernandez.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/fede_fdz"}
     - {name: "github", link: "https://github.com/fedefernandez"}
@@ -48,12 +48,12 @@
     - {name: "github", link: "https://github.com/flipper83"}
 - 
   id: 4
-  name: "Francisco"
+  name: "Fernando"
   surname: "Franco"
   company: "Telefonica I+D"
-  title: ""
+  title: "Senior Android Developer"
   bio: "Apasionado de las nuevas tecnologías y gadgets. Descubrió Android en 2009 y desde entonces se ha centrado en como desarrollar aplicaciones más solidas utilizando TDD, buenas prácticas y CLEAN Architecture en esa plataforma.  Actualmente trabajo en Telefonica I+D como Senior Android Developer."
-  thumbnailUrl: fernando-franco.png
+  thumbnailUrl: fernando-franco.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/thanerian"}
@@ -64,7 +64,7 @@
   company: "Job&Talent"
   title: "Android Engineer"
   bio: "Jorge Castillo es un desarrollador murciano con amplia experiencia en el manejo de la API gráfica de Android. Posee numerosas librerías Open Source para la capa de UI, así como algunas otras más propias de I+D (Procesadores de anotaciones). Actualmente forma parte del equipo de desarrollo de JobandTalent."
-  thumbnailUrl: jorge-castillo.png
+  thumbnailUrl: jorge-castillo.jpg
   rockstar: true
   ribbon:
   social: 
@@ -78,7 +78,7 @@
   company: "Job&Talent"
   title: "Android Tech Lead"
   bio: "Android Tech Lead at JobandTalent, GDG Madrid Organizer and Founder of AndroCode. Formerly at Redbooth and GDG Barcelona. Beer Lover and Andalú. And Speaker!"
-  thumbnailUrl: jose-pereira.png
+  thumbnailUrl: jose-pereira.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/JMPergar"}
@@ -90,7 +90,7 @@
   company: "Job&Talent"
   title: "Senior Android Developer"
   bio: "Apasionado por la tecnología trabaja en Madrid como Android Senior Engineer en jobandtalent. Previamente ha trabajado en idealista participando en el desarrollo de la API REST, las apps móviles y en el labs de la compañía. Compagina su labor de desarrollador con la de editor en diferentes publicaciones en internet, coordina el blog de Genbeta Dev y colabora en Xataka Android."
-  thumbnailUrl: jose-rodriguez.png
+  thumbnailUrl: jose-rodriguez.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/durbon"}
