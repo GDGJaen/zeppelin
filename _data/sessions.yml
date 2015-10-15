@@ -1,59 +1,108 @@
 -
-  id: 307
+  id: 123
+  title: "Apertura de puertas y recepción de los asistentes"
+  place: "Hall"
+  service: true
+  description: "Los organizadores validarán las entradas de los asistentes y les entregarán las acreditaciones"
+-
+  id: 456
   title: "Coffee Break"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "El mejor momento para charlar con los ponentes y con el resto de asistentes"
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 789
+  title: "Comida"
+  place: "Cafetería de IFEJA o los alrededores"
   service: true
 -
+  id: 139
+  title: "Clausura"
+  description: "Se cerrará el evento contando a los asistentes los planes para continuar con el networking y algunas sorpresas."
+  subtype: keynote
+  speakers: [10]
+  language: es
+  complexity: ""
+-
+  id: 000
+  title: "Keynote del DevFest Jaén 2015"
+  description: "Será una breve presentación para dar la bienvenida a los asistentes y para dar a conocer el GDG Jaén."
+  subtype: keynote
+  speakers: [10]
+  language: es
+  complexity: ""
+  video: ""
+-
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
+  title: "Responsabilidad y pragmatismo"
+  description: "En un mundo que avanza más rápido de lo que la mayoría podemos asimilar, es fácil dejarse llevar por las modas, las nuevas técnicas y los nuevos lenguajes o frameworks. Y también es fácil olvidar el fin de lo que hacemos, la responsabilidad que eso conlleva y lo que nuestro trabajo supone para la sociedad actual. Si bien es más que valioso explorar nuevas opciones, tenemos que aprender, como comunidad, a aplicar un criterio pragmático y responsable al software que escribimos."
+  subtype: presentation
+  speakers: [8]
+  language: es
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Reactive your Android"
+  description: "¿Quieres utilizar Rx en tu proyecto Android y no sabes cómo? En esta charla repasaremos los elementos más comunes cuando se trabaja con Rx y cómo están relacionados entre ellos con un enfoque práctico. Veremos casos de usos prácticos de algunos operadores más utilizados y cómo podemos evitar las AsyncTask y Bus de Eventos agilizando el desarrollo."
   subtype: presentation
   speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  language: es
+  complexity: "Intermediate"
+-
+  id: 003
+  title: "Android Graphics API: Aprendiendo con AndroidFillableLoaders"
+  description: "En esta charla trataremos los aspectos más importantes de la API gráfica que Android pone a nuestra disposición para dibujar a bajo nivel. Haremos uso de herramientas como Canvas, Paint, o clipping paths para construir interesantes vistas y animaciones personalizadas basadas en contornos SVG."
+  subtype: presentation
+  speakers: [5]
+  language: es
+  complexity: "Advanced"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Dependency Injection on Android"
+  description: "La inyección de dependencias es una de las herramientas más potentes con la que un desarrollador puede contar. Sin embargo, en Android su uso no es del todo común. Durante esta charla explicaremos qué es la inyección de dependencias, cómo usarla en Android y qué podemos hacer con este patrón para facilitarnos la vida."
+  subtype: presentation
+  speakers: [2]
+  language: es
+  complexity: "Advanced"
+  presentation: "http://es.slideshare.net/PedroVicenteGmezSnch/dependency-injection-on-android-spanish"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "Limpiando espero la arquitectura que yo quiero"
+  description: "Paso a paso explico cómo estructurar nuestros proyectos para ir solucionando y separando problemas para ver finalmente como la foto general de lo que hemos montado coincide con los principios de Clean Architecture y cómo esto nos ayuda a construir un software más solido, extensible y refactorizable."
+  subtype: presentation
+  speakers: [6]
+  language: es
+  complexity: "Intermediate"
+  presentation: "http://es.slideshare.net/jmpereirag/limpiando-espero-la-arquitectura-que-yo-quiero"
+-
+  id: 006
+  title: "Effective Cloud Network Layer: APIs Lovers and Apps"
+  description: "Esta charla pretende explicar de una forma orientada al desarrollador de apps móviles cómo construir un Mobile Backend (MbaaS) utilizando Google Cloud Endpoint. Aprovechando al máximo los recursos que te provee la nube de Google para crear endpoint, distribuirlos e integrarlos en una App. Nos adentraremos en la implementación de la capa de red, ver cómo construir una app que se comunique con una API REST, la problemática específica de la red y cómo gestionar el modo offline, además de algunas herramientas para programador móvil."
+  subtype: presentation
   speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  language: es
+  complexity: "Intermediate"
+-
+  id: 007
+  title: "Android Functional Views: A functional programming approach to transform, compose and slay Android UI Views"
+  description: "La programación funcional y reactiva se está abriendo hueco dentro de Android. Alternativas como RX nos proporcionan algunas características de este paradigma aunque no nos permite aprovechar todo el potencial de la programación funcional. En esta charla descubriremos una nueva manera de gestionar nuestra UI mediante la Programación Funcional. Una aproximación para transformar, componer y tratar nuestras vistas en Android de una manera elegante."
+  subtype: presentation
+  speakers: [0,1]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 008
+  title: "Spark with Scala"
+  description: "Apache Spark es una de las mayores revoluciones en el mundo Big Data. En la actualidad, es el proyecto Open Source con más contribuidores y con mayor crecimiento de todo el mundo. Pero ¿Qué tiene de especial? En la charla se hablará sobre cómo funciona Spark con sus ventajas y potencial de procesamiento en tiempo real haciendo uso de su elegante API en Scala."
+  subtype: presentation
+  speakers: [9]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 009
+  title: "Persistiendo que es gerundio"
+  description: "Persistir información dentro de una aplicación es la más común de las tareas. A lo largo de esta charla hablaremos de cómo guardar información, algunos frameworks interesantes, cómo trabajar sin conexión y cómo enmascarar el acceso a los orígenes de datos desde nuestra capa de lógica de negocio."
+  subtype: presentation
+  speakers: [3]
+  language: es
+  complexity: "Beginner"
