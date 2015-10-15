@@ -1,29 +1,29 @@
 - 
-  id: 8
+  id: 0
   name: "Javi"
   surname: "Pacheco"
   company: "47 Degrees"
   title: "Scala Developer"
-  bio: "Javi is Senior Software Engineer at 47 Degrees with experience in Android development."
+  bio: "Javi is Senior Software Engineer at 47 Degrees with a huge experience in Android development."
   thumbnailUrl: javi-pacheco.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/javielinux"}
     - {name: "github", link: "https://github.com/javipacheco"}
 - 
-  id: 7
+  id: 1
   name: "Fede"
   surname: "Fernández"
   company: "47 Degrees"
   title: "Scala Developer"
-  bio: "Fede is Senior Software Engineer at 47 Degrees with experience in Android development."
+  bio: "Fede is Senior Software Engineer at 47 Degrees with a huge experience in Android development."
   thumbnailUrl: fede-fernandez.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/fede_fdz"}
     - {name: "github", link: "https://github.com/fedefernandez"}
 - 
-  id: 6
+  id: 2
   name: "Pedro"
   surname: "Gómez"
   company: "Karumi"
@@ -35,7 +35,7 @@
     - {name: "twitter", link: "https://twitter.com/pedro_g_s"}
     - {name: "github", link: "https://github.com/pedrovgs"}
 - 
-  id: 5
+  id: 3
   name: "Jorge"
   surname: "Barroso"
   company: "Karumi"
@@ -58,7 +58,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/thanerian"}
 - 
-  id: 3
+  id: 5
   name: "Jorge"
   surname: "Castillo"
   company: "Job&Talent"
@@ -72,7 +72,7 @@
     - {name: "github", link: "https://github.com/jorgecastilloprz"}
     - {name: "site", link: "http://jorgecastillo.xyz/"}
 - 
-  id: 2
+  id: 6
   name: "José Manuel"
   surname: "Pereira García"
   company: "Job&Talent"
@@ -83,8 +83,9 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/JMPergar"}
     - {name: "github", link: "https://github.com/JMPergar"}
+    - {name: "site", link: "http://jmpergar.com/"}
 - 
-  id: 1
+  id: 7
   name: "José María"
   surname: "Rodríguez Hurtado"
   company: "Job&Talent"
@@ -94,3 +95,26 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/durbon"}
+- 
+  id: 8
+  name: "Miguel Ángel"
+  surname: "Arroyo Ortega"
+  company: "BeBanjo"
+  title: "Software Developer"
+  bio: "Escribe software en BeBanjo, principalmente en Ruby y Javascript. Lee sobre software y estudia física en sus ratos libres."
+  thumbnailUrl: miguel-arroyo.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/maxcosworth"}
+- 
+  id: 9
+  name: "Esteban"
+  surname: "Dorado Roldán"
+  company: "Tecsisa"
+  title: "Scala Developer"
+  bio: "Esteban es ingeniero informático y desarrollador Scala en Tecsisa. Además también se le da bien el desarrollo web y es un desarrollador experimentado en Android. En sus ratos libres es organizador del GDG Granada y participa en todos los hackathones que puede."
+  thumbnailUrl: esteban-dorado.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/mr_esti"}
+    - {name: "github", link: "https://github.com/mresti"}
