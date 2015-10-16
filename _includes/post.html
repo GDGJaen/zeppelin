@@ -10,7 +10,7 @@
                         <div class="published col-md-6 col-xs-6 pull-left">
                             <span class="caption">Posted:</span>
                             <span class="publish-date" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} • </span>                             
-                            <a href="postUrl/#disqus_thread" class="publish-date"></a>
+                            <a href="{{ postUrl }}/#disqus_thread" class="publish-date"></a>
                         </div>
                         <div class="share col-md-6 col-xs-6 pull-right">
                             <ul class="social-links">
