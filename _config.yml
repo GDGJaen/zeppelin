@@ -130,10 +130,10 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.es/e/entradas-devfest-jaen-2015-19077358894"
   buyButtonText: "Comprar ahora"
   ticketContentList: ["Acreditación como asistente", "Acceso a todas las charlas y actividades", "Networking"]
-  validFrom: "16 de Octubre"
-  validThrough: "2014-09-30T23:59"
-  #featured: true
-  disabled: true
+  validFrom: "2015-10-16T00:00"
+  validThrough: "2015-11-05T23:59"
+  featured: true
+  disabled: false
 
 # Footer
 socialLinks:
