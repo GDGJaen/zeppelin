@@ -37,7 +37,7 @@
   title: "Responsabilidad y pragmatismo"
   description: "En un mundo que avanza más rápido de lo que la mayoría podemos asimilar, es fácil dejarse llevar por las modas, las nuevas técnicas y los nuevos lenguajes o frameworks. Y también es fácil olvidar el fin de lo que hacemos, la responsabilidad que eso conlleva y lo que nuestro trabajo supone para la sociedad actual. Si bien es más que valioso explorar nuevas opciones, tenemos que aprender, como comunidad, a aplicar un criterio pragmático y responsable al software que escribimos."
   subtype: presentation
-  speakers: [8]
+  speakers: [9]
   language: es
   complexity: "Intermediate"
 -
@@ -45,7 +45,7 @@
   title: "Reactive your Android"
   description: "¿Quieres utilizar Rx en tu proyecto Android y no sabes cómo? En esta charla repasaremos los elementos más comunes cuando se trabaja con Rx y cómo están relacionados entre ellos con un enfoque práctico. Veremos casos de usos prácticos de algunos operadores más utilizados y cómo podemos evitar las AsyncTask y Bus de Eventos agilizando el desarrollo."
   subtype: presentation
-  speakers: [4]
+  speakers: [5]
   language: es
   complexity: "Intermediate"
 -
@@ -53,7 +53,7 @@
   title: "Android Graphics API: Aprendiendo con AndroidFillableLoaders"
   description: "En esta charla trataremos los aspectos más importantes de la API gráfica que Android pone a nuestra disposición para dibujar a bajo nivel. Haremos uso de herramientas como Canvas, Paint, o clipping paths para construir interesantes vistas y animaciones personalizadas basadas en contornos SVG."
   subtype: presentation
-  speakers: [5]
+  speakers: [6]
   language: es
   complexity: "Advanced"
 -
@@ -61,7 +61,7 @@
   title: "Dependency Injection on Android"
   description: "La inyección de dependencias es una de las herramientas más potentes con la que un desarrollador puede contar. Sin embargo, en Android su uso no es del todo común. Durante esta charla explicaremos qué es la inyección de dependencias, cómo usarla en Android y qué podemos hacer con este patrón para facilitarnos la vida."
   subtype: presentation
-  speakers: [2]
+  speakers: [3]
   language: es
   complexity: "Advanced"
   presentation: "http://es.slideshare.net/PedroVicenteGmezSnch/dependency-injection-on-android-spanish"
@@ -70,7 +70,7 @@
   title: "Limpiando espero la arquitectura que yo quiero"
   description: "Paso a paso explico cómo estructurar nuestros proyectos para ir solucionando y separando problemas para ver finalmente como la foto general de lo que hemos montado coincide con los principios de Clean Architecture y cómo esto nos ayuda a construir un software más solido, extensible y refactorizable."
   subtype: presentation
-  speakers: [6]
+  speakers: [7]
   language: es
   complexity: "Intermediate"
   presentation: "http://es.slideshare.net/jmpereirag/limpiando-espero-la-arquitectura-que-yo-quiero"
@@ -79,7 +79,7 @@
   title: "Effective Cloud Network Layer: APIs Lovers and Apps"
   description: "Esta charla pretende explicar de una forma orientada al desarrollador de apps móviles cómo construir un Mobile Backend (MbaaS) utilizando Google Cloud Endpoint. Aprovechando al máximo los recursos que te provee la nube de Google para crear endpoint, distribuirlos e integrarlos en una App. Nos adentraremos en la implementación de la capa de red, ver cómo construir una app que se comunique con una API REST, la problemática específica de la red y cómo gestionar el modo offline, además de algunas herramientas para programador móvil."
   subtype: presentation
-  speakers: [7]
+  speakers: [8]
   language: es
   complexity: "Intermediate"
 -
@@ -92,10 +92,10 @@
   complexity: "Intermediate"
 -
   id: 008
-  title: "Spark with Scala"
-  description: "Apache Spark es una de las mayores revoluciones en el mundo Big Data. En la actualidad, es el proyecto Open Source con más contribuidores y con mayor crecimiento de todo el mundo. Pero ¿Qué tiene de especial? En la charla se hablará sobre cómo funciona Spark con sus ventajas y potencial de procesamiento en tiempo real haciendo uso de su elegante API en Scala."
+  title: "Scala.js : Client Side Strongly Typed Functional Programming"
+  description: "En esta charla se mostrará el gran potencial que nos provee Scala.js, un compilador de Scala a Javascript. Trayendo toda la magia de la programación funcional al lado del cliente como transparencia referencial, evaluación perezosa, alta abstracción, etc."
   subtype: presentation
-  speakers: [9]
+  speakers: [2]
   language: es
   complexity: "Intermediate"
 -
@@ -103,6 +103,6 @@
   title: "Persistiendo que es gerundio"
   description: "Persistir información dentro de una aplicación es la más común de las tareas. A lo largo de esta charla hablaremos de cómo guardar información, algunos frameworks interesantes, cómo trabajar sin conexión y cómo enmascarar el acceso a los orígenes de datos desde nuestra capa de lógica de negocio."
   subtype: presentation
-  speakers: [3]
+  speakers: [4]
   language: es
   complexity: "Beginner"
