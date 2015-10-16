@@ -24,6 +24,18 @@
     - {name: "github", link: "https://github.com/fedefernandez"}
 - 
   id: 2
+  name: "Rafa"
+  surname: "Paradela"
+  company: "47 Degrees"
+  title: "Ingeniero de Software en Scala"
+  bio: "Ingeniero de Software en Scala en 47 Degrees. Aunque tiene mucha experiencia programando tanto en el lado del servidor como en el cliente, es un apasionado de bonitas interfaces con increíbles experiencias de usuario."
+  thumbnailUrl: rafa-paradela.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/rafaparadela"}
+    - {name: "github", link: "https://github.com/rafaparadela"}
+- 
+  id: 3
   name: "Pedro"
   surname: "Gómez"
   company: "Karumi"
@@ -35,7 +47,7 @@
     - {name: "twitter", link: "https://twitter.com/pedro_g_s"}
     - {name: "github", link: "https://github.com/pedrovgs"}
 - 
-  id: 3
+  id: 4
   name: "Jorge"
   surname: "Barroso"
   company: "Karumi"
@@ -47,7 +59,7 @@
     - {name: "twitter", link: "https://twitter.com/flipper83"}
     - {name: "github", link: "https://github.com/flipper83"}
 - 
-  id: 4
+  id: 5
   name: "Fernando"
   surname: "Franco"
   company: "Telefonica I+D"
@@ -58,7 +70,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/thanerian"}
 - 
-  id: 5
+  id: 6
   name: "Jorge"
   surname: "Castillo"
   company: "Job&Talent"
@@ -72,7 +84,7 @@
     - {name: "github", link: "https://github.com/jorgecastilloprz"}
     - {name: "site", link: "http://jorgecastillo.xyz/"}
 - 
-  id: 6
+  id: 7
   name: "José Manuel"
   surname: "Pereira García"
   company: "Job&Talent"
@@ -85,7 +97,7 @@
     - {name: "github", link: "https://github.com/JMPergar"}
     - {name: "site", link: "http://jmpergar.com/"}
 - 
-  id: 7
+  id: 8
   name: "José María"
   surname: "Rodríguez Hurtado"
   company: "Job&Talent"
@@ -96,7 +108,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/durbon"}
 - 
-  id: 8
+  id: 9
   name: "Miguel Ángel"
   surname: "Arroyo Ortega"
   company: "BeBanjo"
@@ -106,15 +118,3 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/maxcosworth"}
-- 
-  id: 9
-  name: "Esteban"
-  surname: "Dorado Roldán"
-  company: "Tecsisa"
-  title: "Scala Developer"
-  bio: "Esteban es ingeniero informático y desarrollador Scala en Tecsisa. Además también se le da bien el desarrollo web y es un desarrollador experimentado en Android. En sus ratos libres es organizador del GDG Granada y participa en todos los hackathones que puede."
-  thumbnailUrl: esteban-dorado.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "https://twitter.com/mr_esti"}
-    - {name: "github", link: "https://github.com/mresti"}
