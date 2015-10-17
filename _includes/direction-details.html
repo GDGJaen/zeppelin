@@ -2,7 +2,7 @@
 <section id="direction-details" class="direction-details">
     <div class="content-wrapper">
         <section class="image-section standart-height" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.directionDetailsImage }}');">
-            <h3>{{ site.directionDetailsTitle }}</h3>
+            <h3><span id="directionDetailsTitle"> {{ site.directionDetailsTitle }} </span></h3>
         </section>
         <div class="row">
             <div class="col-lg-10 col-lg-offset-1 text-left">
@@ -17,7 +17,7 @@
                 </div>
                 {% assign animationDelay = animationDelay | plus:500 %}
                 {% endfor %}
-                
+            <!-- 
                 {% for wideCard in site.directionDetailsWideCards %}
                 <div class="col-md-12 col-xs-12 animated hiding" data-animation="fadeInDown" data-delay="0">
                     <div class="card questions">
@@ -36,6 +36,7 @@
                     </div>
                 </div>
                 {% endfor %}
+            -->
             </div>
         </div>
     </div>

@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Jaén 2015"
-email: "gdgjaen@gmail.com"
+email: "contacto@gdgjaen.xyz"
 description: "GDG DevFest es un conjunto de eventos por todo el mundo"
 baseurl: ""
 url: "http://gdgjaen.xyz"
@@ -24,7 +24,7 @@ siteVerification: "xYx4smZJbD6N50Mi222bBDS1MQ2kNBtEaNmAwUYEYKg"
 organizerName: "GDG Jaén"
 organizerAlternateName: "Google Developer Group Jaén"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "gdgjaen@gmail.com"
+organizerEmail: "contacto@gdgjaen.xyz"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.gdgjaen.xyz"
 
@@ -78,19 +78,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Localización"
-eventLocationName: "Universidad de Jaén"
-eventLocationLink: "http://ujaen.es"
-eventStreetAddress: "Sin calle"
+eventLocationName: "Centro de Convenciones de IFEJA"
+eventLocationLink: "http://www.ifeja.org/"
+eventStreetAddress: "Prolongación de Carretera de Granada s/n"
 eventAddressLocality: "Jaén"
 eventAddressLocalityRegion: "Andalucía"
-eventPostalCode: "23000"
+eventPostalCode: "23003"
 eventAddressCountry: "España"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "37.7869829, -3.7763832"
-mapCenterCoordinates: "37.7869829, -3.7763832"
-mapMobileCenterCoordinates: "37.7869829, -3.7763832"
+eventStartTime: "2015-11-07T09:00"
+eventDoorTime: "08:45"
+eventEndTime: "2015-11-07T21:00"
+eventPlaceCoordinates: "37.776666, -3.757317"
+mapCenterCoordinates: "37.777757,-3.7587247"
+mapMobileCenterCoordinates: "37.777757,-3.7587247"
 
 # Venue Block
 venueBlockTitle: "VENUE"
@@ -168,24 +168,25 @@ teamBlockTitle: "Nosotros"
 aboutUs: "El GDG de Jaén está dirigido por ex-estudiantes y estudiantes de la Universidad de Jaén y nació con el objetivo de unir y generar la comunidad que la provincia llevaba tanto tiempo pidiendo. Si bien en esta sección podrás ver quienes estamos detrás de todo esto, cualquiera con interés e inquietudes puede colaborar... ¡Quizás en el proxímo DevFest aparezcas tú! Al fin y al cabo el GDG no son sólo 4 o 5 personas, lo formamos todos los que asistimos a los eventos y aportamos ganas e ideas. Nuestra última finalidad es proporcionarle a las nuevas generaciones de estudiantes lo que a nosotros nos hubiera gustado tener cuando empezamos."
 
 # Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+findWayTitle: "Encuentra aquí tu ruta"
+findWayDistance: "Distancia"
+findWayDriving: "En coche"
+findWayWalking: "Andando"
+findWayBicycling: "En bici"
+findWayTransit: "Transporte público"
+#findWayFindFlight: "Find Flight"
+logisticsMapCenterCoordinates: "39.6872221,-3.6584213"
+logisticsMapMobileCenterCoordinates: "39.6872221,-3.6584213"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Alrededor de IFEJA"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Llegar en coche", information: 'Quien quiera venir en coche, dispone de aparcamiento gratuito junto a la entrada del centro de convenciones de IFEJA.'}
+ - {title: "Transporte público", information: 'La línea 13 de autobuses urbanos de Jaén llega tiene una parada en IFEJA. La frecuencia es cada hora en torno a las y media siendo el último a las 20:30.'}
+ - {title: "Taxi", information: 'Si prefieres utilizar un taxi como forma de moverte, el número para reservar uno en Jaén es el 953 22-22-22 o 953 27-10-10. Podéis solicitar un taxi vía Whatsapp dirigiéndoos a esos mismos números.'}
+ - {title: "Para comer", information: 'El edificio dispone de cafetería y habrá un menú especial para la comida de mediodía. Sois libres de traer vuestra propia comida. Además podréis encontrar otras alternativas en el centro de la ciudad o en un centro comercial cercano.'}
 directionDetailsWideCards:
  -
   title: "Questions?"

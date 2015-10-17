@@ -8,6 +8,9 @@ $direction-details-color: #757575;
             min-height: 350px;
         }
     }
+    #directionDetailsTitle {
+        background: rgb(3, 169, 244);
+    }
     .card {
         transform: translateY(-125px);
         ul {
