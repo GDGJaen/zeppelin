@@ -93,13 +93,13 @@ mapCenterCoordinates: "37.7869829, -3.7763832"
 mapMobileCenterCoordinates: "37.7869829, -3.7763832"
 
 # Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
+venueBlockTitle: "VENUE"
+venueBigImage: "guadalquivir.jpg"
+venueSmallImage1: "venue_0.jpg"
 venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueSmallImage3: "venue_2.jpg"
+venueTitle: "Palacio de Congresos de IFEJA"
+venueFeatures: ["Aparcamiento gratuito", "Restaurante y Cafetería propio","Pantalla 6x4,5m"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -129,7 +129,7 @@ ticketsOffers:
   ribbon: null
   buyButtonLink: "https://www.eventbrite.es/e/entradas-devfest-jaen-2015-19077358894"
   buyButtonText: "Comprar ahora"
-  ticketContentList: ["Acreditación como asistente", "Acceso a todas las charlas y actividades", "Networking"]
+  ticketContentList: ["Acreditación como asistente", "Acceso a todas las charlas y actividades", "Networking", "Sorpresas"]
   validFrom: "2015-10-16T00:00"
   validThrough: "2015-11-05T23:59"
   featured: true
