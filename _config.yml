@@ -50,7 +50,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG Jaén DevFest <typeout> 2015"
 eventDate: "7 de noviembre, 2015"
-typeoutTextValues: '"", "Android", "Functional Programming", "Entrepreneurship", "Community"'
+typeoutTextValues: '"", "Android", "Functional Programming", "Cloud", "Community"'
 typeoutFallback: "Jaén"
 heroButtons:
  - {permalink: "/#tickets", text: "Consigue una entrada"}
