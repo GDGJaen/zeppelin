@@ -39,7 +39,10 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/agenda/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Nosotros"}
+ - {permalink: "/logistics/", text: "Planifícate"}
 rightNavigationButtons:
  - {link: "/#tickets", text: "Consigue una entrada"}
 
@@ -108,14 +111,14 @@ twitterHashTag: "devfestjaen"
 
 # Partners Block
 organizersTitle: "Organizadores"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersTitle: "Patrocinadores"
+partnersC4sponsorsButton: "Patrocinar"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Subscríbete para recibir novedades en tu correo"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Recibirás un correo con las últimas novedades sobre el GDG DevFest Jaén y sobre actividades organizadas por el GDG Jaén."
 
 # Tickets Block
 ticketsTitle: "Entradas"

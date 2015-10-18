@@ -1,9 +1,9 @@
 - 
-  group: "Organizador principal"
+#  group: "Organizador"
   elements: 
     - {name: "GDG Jaén", description: "GDG Jaén - Open and volunteer geek community", link: "http://gdgjaen.xyz", imageUrl: "gdg-jaen.svg"}
-- 
-  group: "Co-organizadores"
-  elements: 
-    - {name: "IFEJA", description: "Recinto provincial de Ferias y Congresos", link: "http://ifeja.org", imageUrl: "ifeja.jpg"}
-    - {name: "Google", description: "Google", link: "https://www.google.es/intl/es/about/", imageUrl: "google.svg"}
+#- 
+#  group: "Co-organizadores"
+#  elements: 
+#    - {name: "IFEJA", description: "Recinto provincial de Ferias y Congresos", link: "http://ifeja.org", imageUrl: "ifeja.jpg"}
+#    - {name: "Google", description: "Google", link: "https://www.google.es/intl/es/about/", imageUrl: "google.svg"}
