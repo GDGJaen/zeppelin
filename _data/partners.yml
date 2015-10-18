@@ -10,4 +10,4 @@
   elements: 
     - {name: "Imprenta", description: "Impresiones y cartelería patrocinados por Imprenta", link: "http://blaveo.com/", imageUrl: "imprenta.svg"}
     - {name: "Universidad de Jaén", description: "Evento patrocinado por Universidad de Jaén", link: "https://ujaen.es/", imageUrl: "ujaen.jpg"}
-    - {name: "Fundación Caja Rural de Jaén", description: "Evento patrocinado por Fundación Caja Rural de Jaén", link: "http://www.fundacioncrj.es/", imageUrl: "caja-rural.jpg", width:"120px"}
+    - {name: "Fundación Caja Rural de Jaén", description: "Evento patrocinado por Fundación Caja Rural de Jaén", link: "http://www.fundacioncrj.es/", imageUrl: "caja-rural.jpg"}
