@@ -18,7 +18,7 @@
   title: "Scala Developer"
   bio: "Fede is Senior Software Engineer at 47 Degrees with a huge experience in Android development."
   thumbnailUrl: fede-fernandez.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/fede_fdz"}
     - {name: "github", link: "https://github.com/fedefernandez"}
@@ -30,7 +30,7 @@
   title: "Ingeniero de Software en Scala"
   bio: "Ingeniero de Software en Scala en 47 Degrees. Aunque tiene mucha experiencia programando tanto en el lado del servidor como en el cliente, es un apasionado de bonitas interfaces con increíbles experiencias de usuario."
   thumbnailUrl: rafa-paradela.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/rafaparadela"}
     - {name: "github", link: "https://github.com/rafaparadela"}
@@ -66,7 +66,7 @@
   title: "Senior Android Developer"
   bio: "Apasionado de las nuevas tecnologías y gadgets. Descubrió Android en 2009 y desde entonces se ha centrado en como desarrollar aplicaciones más solidas utilizando TDD, buenas prácticas y CLEAN Architecture en esa plataforma.  Actualmente trabajo en Telefonica I+D como Senior Android Developer."
   thumbnailUrl: fernando-franco.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/thanerian"}
 - 
@@ -77,7 +77,7 @@
   title: "Android Engineer"
   bio: "Jorge Castillo es un desarrollador murciano con amplia experiencia en el manejo de la API gráfica de Android. Posee numerosas librerías Open Source para la capa de UI, así como algunas otras más propias de I+D (Procesadores de anotaciones). Actualmente forma parte del equipo de desarrollo de JobandTalent."
   thumbnailUrl: jorge-castillo.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
   social: 
     - {name: "twitter", link: "https://twitter.com/JorgeCastilloPr"}
@@ -104,7 +104,7 @@
   title: "Senior Android Developer"
   bio: "Apasionado por la tecnología trabaja en Madrid como Android Senior Engineer en jobandtalent. Previamente ha trabajado en idealista participando en el desarrollo de la API REST, las apps móviles y en el labs de la compañía. Compagina su labor de desarrollador con la de editor en diferentes publicaciones en internet, coordina el blog de Genbeta Dev y colabora en Xataka Android."
   thumbnailUrl: jose-rodriguez.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/durbon"}
 - 
