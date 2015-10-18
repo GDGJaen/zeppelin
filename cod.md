@@ -1,20 +1,18 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Normas de conducta
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+__Estas normas de conducta "No seas idiota" son una versión acortada y casual de otro código de conducta más extenso. [Ver la versión completa](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
 
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+GDG Jaén se enorgullece de ser una comunidad abierta, respetuosa e inclusiva. Eso significa que no tolera comportamientos discriminatorios o desiguales en los eventos que organiza. Como sabemos que no es obvio para todo el mundo, este es un recordatorio de las cosas que no se permiten: chistes o comentarios ofensivos sobre sexo / sexualidad / raza / religión / nacionalidad, mostrar porno en público, acosar a las personas aún después de que te han pedido que las dejes. Este tipo de comportamientos puede ser motivo de expulsión del evento y de la comunidad del GDG.
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
-
-
+Si alguien te está molestando, informa a los organizadores de inmediato y se harán cargo de esa persona. Queremos mantener genialidad del GDG DevFest.
 ######Contacts:
 
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+- GDG Jaén, [contacto@gdgjaen.xyz](mailto:contacto@gdgjaen.xyz)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
