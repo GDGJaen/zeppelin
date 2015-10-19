@@ -25,7 +25,7 @@ Estamos intentando cuadrar la agenda para que incluya ponencias para todos los p
 
 ##### El lugar
 El lugar elegido para celebrar el primer DevFest de Jaén ha sido IFEJA. Como el evento será largo, aquí estaremos cómodos, con espacio de sobra, tendremos aparcamiento gratuito para todos y además hay una cafetería dentro del mismo edificio donde podremos tomarnos lo que queramos y comer sin tener que irnos de allí (iremos informando de los menús disponibles y los precios). 
-Para llegar hasta IFEJA podéis ir en coche sin preocupación por el aparcamiento y también hay una parada de la línea 13 de autobuses urbanos (creemos que a las y media de cada hora).
+Para llegar hasta IFEJA podéis ir en coche sin preocupación por el aparcamiento y también se puede coger un autobús urbano de la línea 13 en la Plaza de la Constitución cada hora a partir de las 7:30. Ver horarios y paradas [aquí](http://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_fdes_d1_v1.jsp&contenido=781&tipo=6&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1&language=es&codMenu=133&codMenuPN=2&codMenuSN=96&codMenuTN=131).
 
 
 #### Síguenos

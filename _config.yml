@@ -187,7 +187,7 @@ directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Alrededor de IFEJA"
 directionDetailsCards:
  - {title: "Llegar en coche", information: 'Quien quiera venir en coche, dispone de aparcamiento gratuito junto a la entrada del centro de convenciones de IFEJA.'}
- - {title: "Transporte público", information: 'La línea 13 de autobuses urbanos de Jaén llega tiene una parada en IFEJA. La frecuencia es cada hora en torno a las y media siendo el último a las 20:30.'}
+ - {title: "Transporte público", information: 'La línea 13 de autobuses urbanos de Jaén tiene una parada en IFEJA. La frecuencia es cada hora en torno a las y media. Ver <a href="http://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_fdes_d1_v1.jsp&contenido=781&tipo=6&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1&language=es&codMenu=133&codMenuPN=2&codMenuSN=96&codMenuTN=131" target="_blank">horarios</a>.'}
  - {title: "Taxi", information: 'Si prefieres utilizar un taxi como forma de moverte, el número para reservar uno en Jaén es el 953 22-22-22 o 953 27-10-10. Podéis solicitar un taxi vía Whatsapp dirigiéndoos a esos mismos números.'}
  - {title: "Para comer", information: 'El edificio dispone de cafetería y habrá un menú especial para la comida de mediodía. Sois libres de traer vuestra propia comida. Además podréis encontrar otras alternativas en el centro de la ciudad o en un centro comercial cercano.'}
 directionDetailsWideCards:
