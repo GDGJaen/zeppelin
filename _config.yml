@@ -116,7 +116,7 @@ partnersC4sponsorsButton: "Patrocinar"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscríbete para recibir novedades en tu correo"
+subscribeTitle: "Suscríbete para recibir novedades en tu correo"
 subscribeAction: "//xyz.us12.list-manage.com/subscribe/post?u=3b331410093c6e3fe48ed7a2c&amp;id=91115c2eb5"
 subscribeInfo: "Recibirás un correo con las últimas novedades sobre el GDG DevFest Jaén y sobre actividades organizadas por el GDG Jaén."
 
