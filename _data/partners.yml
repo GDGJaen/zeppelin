@@ -1,7 +1,7 @@
 - 
-  group: "General sponsor"
+  group: "Patrocinadores oficiales"
   elements: 
-#    - {name: "Google", description: "Google", link: "https://www.google.es/intl/es/about/", imageUrl: "google.svg"}
+    - {name: "Google", description: "Google", link: "https://www.google.es/intl/es/about/", imageUrl: "google.svg"}
 #    - {name: "Software DelSol", description: "Evento patrocinado por Software DelSol", link: "http://www.sdelsol.com/", imageUrl: "del-sol.jpg"}
 #    - {name: "Blaveo", description: "Evento patrocinado por Blaveo", link: "http://blaveo.com/", imageUrl: "blaveo.jpg"}
 
