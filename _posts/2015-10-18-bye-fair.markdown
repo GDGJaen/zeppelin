@@ -4,7 +4,7 @@ title:  "Adiós feria, Hola DevFest"
 date:   2015-10-18 22:23:00
 isStaticPost: false
 ---
-Esta noche no nos queremos a ir a la cama sin actualizar la información disponible sobre el DevFest Jaén 2015. Queremos añadir más motivos para fijar en vuestro calendario el día 7 de noviembre una cita con nosotros.
+Esta noche no nos queremos ir a la cama sin actualizar la información disponible sobre el DevFest Jaén 2015. Queremos añadir más motivos para fijar en vuestro calendario el día 7 de noviembre una cita con nosotros.
 
 ##### Lista de ponentes
 Ahora que ha terminado la feria de San Lucas y los eventos del fin de semana toca volver a la normalidad. Os proponemos un repaso a la [lista de ponentes](http://gdgjaen.xyz/speakers/) que vendrán a nuestro evento y a sus interesantes charlas.
