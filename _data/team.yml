@@ -58,7 +58,7 @@
   name: "Juan"
   surname: "Cazalla"
   title: "iOS & Android Developer"
-  thumbnailUrl: juan-cazalla.jpg
+  thumbnailUrl: juan-cazalla.png
   team: true
   ribbon: 
     - {abbr: "GDG Organizer", title: "GDG Organizer"}
