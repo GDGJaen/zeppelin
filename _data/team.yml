@@ -12,7 +12,6 @@
     - {name: "twitter", link: "https://twitter.com/ManuelPancorbo"}
     - {name: "github", link: "https://github.com/manuelpancorbo"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/manuelpancorbo"}
-
 - 
   id: 1
   name: "Sergio"
@@ -25,7 +24,6 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/pureta88"}
     - {name: "github", link: "https://github.com/smuriana"}
-
 - 
   id: 2
   name: "José Miguel"
@@ -41,7 +39,6 @@
     - {name: "github", link: "https://github.com/Jamargle"}
     - {name: "twitter", link: "https://twitter.com/jmlb0003"}
     - {name: "google-plus", link: "https://plus.google.com/+JoseLopezCambil"}
-
 - 
   id: 3
   name: "Gabri"
@@ -56,7 +53,20 @@
     - {name: "twitter", link: "http://bit.ly/GabTwtt"}
     - {name: "github", link: "http://bit.ly/GabGit"}
     - {name: "linkedin", link: "http://bit.ly/GabLnkIn"}
-    
+- 
+  id: 4
+  name: "Juan"
+  surname: "Cazalla"
+  title: "iOS & Android Developer"
+  thumbnailUrl: juan.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG Organizer", title: "GDG Organizer"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JuanCazallaEstrella"}
+    - {name: "twitter", link: "https://twitter.com/juan_cazalla"}
+    - {name: "github", link: "https://github.com/juancazalla"}
+    - {name: "linkedin", link: "https://es.linkedin.com/in/juancazalla17"}
 - 
   id: 5
   name: "Raúl"
