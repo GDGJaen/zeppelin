@@ -11,7 +11,7 @@ Ahora que ha terminado la feria de San Lucas y los eventos del fin de semana toc
 
 ##### Otra información de interés
 Como hemos tenido una feria pasada por agua, nos ha dado tiempo de completar la página con información sobre el espacio donde celebraremos el DevFest Jaén. Ahora podéis consultar [cómo llegar](http://gdgjaen.xyz/logistics/) y tenéis algo más de información para planificar vuestro fin de semana tanto si vais a venir de fuera como si sois de Jaén. Si tenéis alguna duda, poneos en contacto con nosotros comentando aquí, en las redes sociales o por email. Os responderemos lo más rápido que podamos.
-Asímismo, os pedimos por favor que nos comuniquéis cualquier cosa que penséis que se nos haya pasado por alto y que sea de interés. 
+Asimismo, os pedimos por favor que nos comuniquéis cualquier cosa que penséis que se nos haya pasado por alto y que sea de interés. 
 
 ##### Las entradas están fluyendo...
 Como hemos ido anunciando, las entradas [ya están disponibles](https://www.eventbrite.es/e/entradas-devfest-jaen-2015-19077358894) para que os aseguréis el sitio. En principio tenemos 80, pero al ritmo que llevan, os aconsejamos no dejarlo mucho si no queréis perderos el DevFest.

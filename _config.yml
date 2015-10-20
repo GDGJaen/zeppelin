@@ -77,7 +77,7 @@ latestNewsTitle: "Últimas noticias"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "Ver todos"
 
 # Location Block
 locationBlockTitle: "Localización"
@@ -118,7 +118,7 @@ partnersC4sponsorsButton: "Patrocinar"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Suscríbete para recibir novedades en tu correo"
 subscribeAction: "//xyz.us12.list-manage.com/subscribe/post?u=3b331410093c6e3fe48ed7a2c&amp;id=91115c2eb5"
-subscribeInfo: "Recibirás un correo con las últimas novedades sobre el GDG DevFest Jaén y sobre actividades organizadas por el GDG Jaén."
+subscribeInfo: "Recibirás en tu correo las últimas novedades sobre el GDG DevFest Jaén y sobre las actividades organizadas por el GDG Jaén."
 
 # Tickets Block
 ticketsTitle: "Entradas"
