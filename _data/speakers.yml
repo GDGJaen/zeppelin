@@ -18,7 +18,7 @@
   title: "Scala Developer"
   bio: "Fede is Senior Software Engineer at 47 Degrees with a huge experience in Android development."
   thumbnailUrl: fede-fernandez.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/fede_fdz"}
     - {name: "github", link: "https://github.com/fedefernandez"}
@@ -30,7 +30,7 @@
   title: "Ingeniero de Software en Scala"
   bio: "Ingeniero de Software en Scala en 47 Degrees. Aunque tiene mucha experiencia programando tanto en el lado del servidor como en el cliente, es un apasionado de bonitas interfaces con increíbles experiencias de usuario."
   thumbnailUrl: rafa-paradela.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/rafaparadela"}
     - {name: "github", link: "https://github.com/rafaparadela"}
