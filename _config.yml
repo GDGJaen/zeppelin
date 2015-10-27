@@ -99,10 +99,10 @@ mapMobileCenterCoordinates: "37.777757,-3.7587247"
 venueBlockTitle: "VENUE"
 venueBigImage: "guadalquivir.jpg"
 venueSmallImage1: "venue_0.jpg"
-venueSmallImage2: "venue_2.jpg"
+venueSmallImage2: "venue_1.jpg"
 venueSmallImage3: "venue_2.jpg"
 venueTitle: "Palacio de Congresos de IFEJA"
-venueFeatures: ["Aparcamiento gratuito", "Restaurante y Cafetería propio","Pantalla 6x4,5m"]
+venueFeatures: ["Aparcamiento gratuito", "Restaurante y Cafetería propio","Pantalla gigante"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
