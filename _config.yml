@@ -81,7 +81,7 @@ rockstarSpeakersButtonText: "Ver todos"
 
 # Location Block
 locationBlockTitle: "Localización"
-eventLocationName: "Centro de Convenciones de IFEJA"
+eventLocationName: "Palacio de congresos de Jaén. IFEJA"
 eventLocationLink: "http://www.ifeja.org/"
 eventStreetAddress: "Prolongación de Carretera de Granada s/n"
 eventAddressLocality: "Jaén"
@@ -101,7 +101,7 @@ venueBigImage: "guadalquivir.jpg"
 venueSmallImage1: "venue_0.jpg"
 venueSmallImage2: "venue_1.jpg"
 venueSmallImage3: "venue_2.jpg"
-venueTitle: "Palacio de Congresos de IFEJA"
+venueTitle: "Palacio de Congresos de Jaén. IFEJA"
 venueFeatures: ["Aparcamiento gratuito", "Restaurante y Cafetería propio","Pantalla gigante"]
 
 # Tweets Feed Block

@@ -4,7 +4,7 @@
     - {name: "Google", description: "Google", link: "https://www.google.es/intl/es/about/", imageUrl: "google.svg"}
     - {name: "47 Degrees", description: "47 Degrees", link: "http://www.47deg.com/", imageUrl: "47deg.jpg"}
     - {name: "Karumi", description: "Karumi", link: "http://blog.karumi.com/", imageUrl: "karumi.png"}
-    - {name: "Software DelSol", description: "Evento patrocinado por Software DelSol", link: "http://www.sdelsol.com/", imageUrl: "del-sol.jpg"}
+    - {name: "Software DelSol", description: "Evento patrocinado por Software DelSol", link: "http://www.sdelsol.com/", imageUrl: "del-sol.png"}
     - {name: "Fundación Caja Rural de Jaén", description: "Evento patrocinado por Fundación Caja Rural de Jaén", link: "http://www.fundacioncrj.es/", imageUrl: "caja-rural.jpg"}
 
 #- 
