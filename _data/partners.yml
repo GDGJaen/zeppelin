@@ -10,5 +10,4 @@
 #- 
 #  group: "También han colaborado:"
 #  elements: 
-#    - {name: "Imprenta", description: "Impresiones y cartelería patrocinados por Imprenta", link: "http://blaveo.com/", imageUrl: "imprenta.svg"}
-#    - {name: "Universidad de Jaén", description: "Evento patrocinado por Universidad de Jaén", link: "https://ujaen.es/", imageUrl: "ujaen.jpg"}
+    - {name: "sadyc", description: "Impresiones y cartelería patrocinados por sadyc", link: "", imageUrl: "sadyc.jpg"}
