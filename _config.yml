@@ -189,32 +189,30 @@ directionDetailsCards:
  - {title: "Llegar en coche", information: 'Quien quiera venir en coche, dispone de aparcamiento gratuito junto a la entrada del centro de convenciones de IFEJA.'}
  - {title: "Transporte público", information: 'La línea 13 de autobuses urbanos de Jaén tiene una parada en IFEJA. La frecuencia es cada hora en torno a las y media. Ver <a href="http://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_fdes_d1_v1.jsp&contenido=781&tipo=6&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1&language=es&codMenu=133&codMenuPN=2&codMenuSN=96&codMenuTN=131" target="_blank">horarios</a>.'}
  - {title: "Taxi", information: 'Si prefieres utilizar un taxi como forma de moverte, el número para reservar uno en Jaén es el 953 22-22-22 o 953 27-10-10. Podéis solicitar un taxi vía Whatsapp dirigiéndoos a esos mismos números.'}
- - {title: "Para comer", information: 'El edificio dispone de cafetería y habrá un menú especial para la comida de mediodía. Sois libres de traer vuestra propia comida. Además podréis encontrar otras alternativas en el centro de la ciudad o en un centro comercial cercano.'}
+# - {title: "Para comer", information: 'El edificio dispone de cafetería y hay <a href="" target="_blank">menús especiales</a> para la comida de mediodía. Sois libres de traer vuestra propia comida. Además podréis encontrar otras alternativas en el centro de la ciudad o en un centro comercial cercano.'}
+# - {title: "Para después", information: 'Desde la <a href="http://www.turjaen.org/" target="_blank">oficina de Turismo</a> nos envían <a href="https://drive.google.com/file/d/0Bw8cXsJlfQYpY2w2eWM1VEJERXNPdTZWMFA1SnI4cnZfZVY4/view?usp=sharing" target="_blank">este programa</a> de actividades para la semana.'}
 directionDetailsWideCards:
  -
-  title: "Questions?"
+  title: "Otros detalles"
   subCards:
    -
-    title: "Hotels"
+    title: "Para comer"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "", text: "El edificio dispone de cafetería y hay <a href='https://drive.google.com/file/d/0Bw8cXsJlfQYpZkxIdnk5ckJnR2NIQ2wtSjJocnNQZXNFSTEw/view?usp=sharing' target='_blank'>un menú especial</a> para la comida de mediodía."}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Además podréis encontrar <a href='http://www.minube.com/restaurantes/espana/jaen/jaen' target='_blank'>muchas alternativas</a> en el centro de la ciudad o en un centro comercial cercano. ¡Cuidado con el tiempo! Tenéis una hora y media para comer."}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "También podéis traer comida preparada de casa."}
    -
-    title: "Registration"
+    title: "Para después"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "", text: "Desde la <a href='http://www.turjaen.org/' target='_blank'>oficina de Turismo</a> nos envían <a href='https://drive.google.com/file/d/0Bw8cXsJlfQYpY2w2eWM1VEJERXNPdTZWMFA1SnI4cnZfZVY4/view?usp=sharing' target='_blank'>un completo programa</a> de exposiciones y actividades para la semana."}
+     - {link: "", text: "Estamos buscando un pub donde terminar por todo lo alto."}
+#   -
+#    title: "Para dormir"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon    
 hackathonTitle: "Hackathon"
