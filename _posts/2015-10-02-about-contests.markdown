@@ -10,7 +10,7 @@ Después de unos días frenéticos de viajes, organización y también de fiesta
 
 #####Ponemos en marcha los concursos
 Ya habréis visto por las redes sociales las <a href="https://plus.google.com/events/gallery/c100se89mphmshuvqambiib18bs?pid=6211567270158909026&oid=116243063925737679471&sort=6" target="_blank">imágenes del cartel</a>, pronto puede que lo veáis por la calle. También se ha 'filtrado' esta imagen:
-<img src="../../../img/other/chromecast.jpg" title="Chromecasts" alt="Sorteo de 3 Chromecasts" style="width: 400px; margin: auto;margin-top: 20px;margin-bottom: 20px;">
+<img src="../../../img/posts/chromecast.jpg" title="Chromecasts" alt="Sorteo de 3 Chromecasts" style="width: 400px; margin: auto;margin-top: 20px;margin-bottom: 20px;">
 
 Os habíamos prometido sorpresas y sorpresas vais a tener. Dichas sorpresas vendrán en forma de regalos que repartiremos durante el Devfest (seguramente al final) y también vienen en forma de **concursos que iniciamos hoy mismo**. 
 
