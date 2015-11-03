@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Premios, premios, premios"
+title:  "Concursos, premios y sorpresas variadas"
 date:   2015-11-3 13:00:00
 isStaticPost: false
 ---
