@@ -20,7 +20,7 @@ Os contamos en qué consisten:
 
 ###### Sorteo entre retweets
 
-Sortearemos una <a href="www.eventbrite.es/e/entradas-devfest-jaen-2015-19077358894" target="_blank">entrada</a> entre los que sean seguidores nuestros y hagan ReTweet a un tweet que pondremos durante esta misma tarde. Dicho tweet será: *“Participo en el sorteo de 1 entrada gratis para el #devfestjaen porque soy un tacañón y #yaquedapoco”*.
+Sortearemos una <a href="www.eventbrite.es/e/entradas-devfest-jaen-2015-19077358894" target="_blank">entrada</a> entre los que sean seguidores nuestros y hagan ReTweet a un tweet que pondremos durante esta misma tarde. Dicho tweet será: *“Participo en el sorteo de 1 entrada gratis para el #devfestjaen para ir por la patilla. Únete! #yaquedapoco”*.
 
 Sobre el funcionamiento del sorteo, deciros que solamente se tendrá en cuenta un ReTweet por persona. Se tendrán en cuenta los ReTweet hasta el jueves 5 de noviembre hasta las 19:00 hora peninsular. Podéis consultar las <a href="https://docs.google.com/document/d/1IvrO-GK8xk0WpQeRKltnJQp3GMB1lbgHcoVqeTknd-s/edit?usp=sharing" target="_blank">bases aquí</a>.
 
