@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Todo preparado"
+date:   2015-11-6 22:00:00
+isStaticPost: false
+---
+### Mañana es el gran día
+Ya no queda tiempo. Todas las entradas terminaron de venderse esta mañana.
+
+Estamos preparados y deseando de ofreceros todo lo que tenemos listo para que paséis un día estupendo mientras compartimos *sabiduría informática*.
+
+<img src="../../../img/posts/soldout.png" title="Todo vendido" alt="Todo vendido" style="width: 400px; margin: auto;margin-top: 20px;margin-bottom: 20px;">
+
+##### Empezamos a las 9:15 de la mañana
+Como se indicamos en la <a href="/agenda">agenda del evento</a>, tenemos prevista la apertura de puertas a las 8:45 y empezaremos a repartir las acreditaciones a esa hora a todo el que vaya llegando.
+
+Aunque alguien se quedará en el recibidor, **se ruega puntualidad**. 
+
+Nos encontraréis en el Palacio de Congresos de Jaén dentro del recinto de IFEJA. En la planta baja. Tenéis información en la sección <a href="/logistics">Planifícate</a> de la página.
+
+##### ¡¡Hasta mañana!!
+
+
